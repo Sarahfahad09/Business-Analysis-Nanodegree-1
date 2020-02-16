@@ -11,4 +11,10 @@ In this program, you’ll learn foundational data skills that apply across funct
 
 
 
-### - Project 1 - 
+###  - Project 1 - 
+
+###  - Project 2 - 
+
+###  - Project 3  
+
+###  - Project 4 - 
