@@ -1,7 +1,7 @@
 
 
 
-# Bussiness-Analysis-Nanodegree-
+# Business Analysis Nanodegree
 
 [https://www.udacity.com/course/business-analytics-nanodegree--nd098](https://www.udacity.com/course/business-analytics-nanodegree--nd098)
 
