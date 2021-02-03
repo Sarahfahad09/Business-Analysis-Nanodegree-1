@@ -16,8 +16,8 @@ In this program, you’ll learn foundational data skills that apply across funct
 
 
 
-###  - Project 1 - [Interpret a Data Visualization Project]  
-                  Using LinkedIn sInario   
+###  - Project 1 - [Insights from Data]()
+
 
 ###  - Project 2 -  [ Analyze NYSE data](https://github.com/nancyalaswad90/Analyze-NYSE-Data)
 
