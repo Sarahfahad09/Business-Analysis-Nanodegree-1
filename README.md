@@ -16,7 +16,7 @@ In this program, you’ll learn foundational data skills that apply across funct
 
 
 
-###  - Project 1 - [Insights from Data]()
+###  - Project 1 - [Insights from Data](https://github.com/nancyalaswad90/Business-Analysis-Nanodegree/blob/master/linkedin.pdf)
 
 
 ###  - Project 2 -  [ Analyze NYSE data](https://github.com/nancyalaswad90/Analyze-NYSE-Data)
