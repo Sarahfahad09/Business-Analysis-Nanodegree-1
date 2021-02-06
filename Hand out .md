@@ -9,13 +9,7 @@
 ## In this course I studied : - 
 
 
-- Statistic 
-
-
-- Sql 
-
-
-- Tableau
+- **Statistic //  Sql  // Tableau**
 
 
 
