@@ -12,9 +12,9 @@
 - **Statistic //  Sql  // Tableau**
 
 
-## SQL 
+## SQL database.
 
-When you are working with large amounts of data in multiple spreadsheets, this is an indication that it might be time to move your data to a SQL database. SQL stands for Structured Query Language, and it is fast at performing many of the tasks of Excel. However, SQL can work across more than one spreadsheet at a time. Most companies rely heavily on databases to store and organize their data. Being comfortable writing SQL queries to access and analyze data from a database is an essential skill for analysts. According to an analytics manager at Apple, when it comes to technical skills, "SQL skills trump all."
+When you are working with large amounts of data in multiple spreadsheets, this is an indication that it might be time to move your data to a SQL database. **SQL** stands for **Structured Query Language,** and it is fast at performing many of the tasks of Excel. However, SQL can work across more than one spreadsheet at a time. Most companies rely heavily on databases to store and organize their data. Being comfortable writing SQL queries to access and analyze data from a database is an essential skill for analysts. According to an analytics manager at Apple, when it comes to technical skills, "SQL skills trump all."
 
 
 
